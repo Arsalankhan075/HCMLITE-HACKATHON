@@ -1,0 +1,6 @@
+{
+  "name": "Saylani HCM Lite - HR & AI Analytics Dashboard",
+  "description": "AI-assisted Human Capital Management dashboard with interactive data visualizations, role-based controls, camera geofence check-in, payroll calculator, and exportable Streamlit application.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

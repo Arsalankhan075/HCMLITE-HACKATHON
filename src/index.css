@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  h1, h2, h3, h4 {
+    color: #0f172a;
+  }
+  .dark h1, .dark h2, .dark h3, .dark h4 {
+    color: #ffffff;
+  }
+}
+
+
